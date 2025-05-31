@@ -5,7 +5,7 @@ I'm currently learning and exploring **Artificial Intelligence (AI)** and **Data
 - 🔭 I’m focused on Machine Learning, Deep Learning, and Big Data processing.
 - 🌱 Improving my skills in Python programming, data analysis, and AI algorithms.
 - 💬 Always open to discussing and collaborating on AI and Data Science projects.
-- 📫 Feel free to reach me at: your.email@example.com
+- 📫 Feel free to reach me at: giangpv102@gmail.com
 ---
 
 ## Some of my skills
