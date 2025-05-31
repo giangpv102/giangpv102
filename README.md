@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Pham Van Giang 👋
 
-<!--
-**giangpv102/giangpv102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning and exploring **Artificial Intelligence (AI)** and **Data Science**.
 
-Here are some ideas to get you started:
+- 🔭 I’m focused on Machine Learning, Deep Learning, and Big Data processing.
+- 🌱 Improving my skills in Python programming, data analysis, and AI algorithms.
+- 💬 Always open to discussing and collaborating on AI and Data Science projects.
+- 📫 Feel free to reach me at: your.email@example.com
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some of my skills
+- Python, Pandas, NumPy, Scikit-learn
+- TensorFlow, PyTorch
+- Machine Learning
+- Data Visualization (Matplotlib, Seaborn)
+- SQL and Big Data handling
+
+---
+
+Thanks for visiting my profile!
